@@ -1,4 +1,4 @@
-# TurtlePay™ JavaScript Widgets
+# TurtlePay® JavaScript Widgets
 
 This repository is the hosting location for any widgets available at https://widgets.turtlepay.io.
 
@@ -26,4 +26,4 @@ If you submit a new widget for inclusion in the repo, please do so in the follow
 
 3) Have a fun time! We're excited to see what you can build.
 
-###### (c) 2018-2019 TurtlePay™ Development Team
+###### (c) 2018-2019 TurtlePay® Development Team
